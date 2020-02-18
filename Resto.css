@@ -1,0 +1,17 @@
+body{
+    background: url(11.jpg);
+    background-size: 100%;
+    color: silver;
+}
+.header{
+    font-size:20px;
+}
+.navigator{
+    color:silver;
+} 
+.navigator a{
+    color: silver;
+}  
+.navigator a:hover{
+    color: skyblue;
+}
